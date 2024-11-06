@@ -20,7 +20,7 @@ const ContactInfoCard = () => {
         <p>{weAreAvailableTrans}</p>
         <p>
           {phoneTrans + ": "}
-          <a href="tel:+8801611112222">+8801826339098</a>
+          <a href="tel:+8801826339098">+8801826339098</a>
         </p>
       </ContactInfo>
 

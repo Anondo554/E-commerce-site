@@ -7,7 +7,7 @@ const initialState = initialStateLocal
   : {
       loginInfo: {
         username: "Lily Watson",
-        emailOrPhone: "lily.wastons@gmail.com",
+        emailOrPhone: "Anondo554@gmail.com",
         password: "random-password1234",
         address: "United State, California",
         isSignIn: true,
